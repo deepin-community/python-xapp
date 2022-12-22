@@ -1,0 +1,15 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: python-xapp
+Source: https://github.com/linuxmint/python-xapp/
+
+Files: *
+Copyright: 2017, Linux Mint <root@linuxmint.com>
+License: LGPL-2+
+
+Files: debian/*
+Copyright: 2017, Linux Mint <root@linuxmint.com>
+           2017, Debian Cinnamon Team <debian-cinnamon@lists.debian.org>
+License: LGPL-2+
+
+License: LGPL-2+
+ See `/usr/share/common-licenses/LGPL-2'.
